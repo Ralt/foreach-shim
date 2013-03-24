@@ -1,0 +1,7 @@
+{
+    "name": "foreach-shim",
+    "description": "Shims Array.prototype.forEach in legacy browsers.",
+    "version": "0.1.0",
+    "author": "Florian Margaine <florian@margaine.com>",
+    "main": "index.js"
+}
